@@ -1,8 +1,7 @@
 import {
   FaGithub,
   FaInstagram,
-  FaLinkedinIn,
-  FaYoutube,
+  FaLinkedinIn
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -77,15 +76,6 @@ const SocialIcons = () => {
             <FaLinkedinIn />
           </a>
         </span>
-        {/* <span>
-          <a
-            href="https://www.youtube.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaYoutube />
-          </a>
-        </span> */}
         <span>
           <a
             href="https://www.instagram.com/tushgoyal/"
